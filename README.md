@@ -9,6 +9,9 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)
 
 ---
+
+![效果截图](screenshot.png)
+
 ## 三大功能
 
 | 功能 | 说明 |
